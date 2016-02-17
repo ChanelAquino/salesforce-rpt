@@ -1,0 +1,18 @@
+DEPEND TELNET TCPIP NETCARD
+REMOVE TELNET
+   TELNET is not installed
+REMOVE NETCARD
+   NETCARD is not installed
+REMOVE FOO1
+   FOO1 is not installed
+INSTALL FOO1
+   Installing FOO1
+REMOVE TCPIP
+   TCPIP is not installed
+REMOVE NETCARD
+   NETCARD is not installed
+REMOVE TELNET
+   TELNET is not installed
+REMOVE FOO1
+   Removing FOO1
+
